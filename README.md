@@ -11,6 +11,8 @@
 -- NotFound()
 -- UnSupportedMediaType()
 
+--Created(url,data) : for any Http POST it adds location header to the created resource to the response.
+
 - These above return status codes for any action performed
 - Objects can also be returned alongside status code. They need different but similar functions.
 
