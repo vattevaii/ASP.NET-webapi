@@ -15,7 +15,9 @@
 - Objects can also be returned alongside status code. They need different but similar functions.
 
 -- Redirect(url) : redirects to given url
+
 -- LocalRedirect(url) : redirects to {baseUrl}+url
+
 -- RedirectToAction(name) : redirects to location represented by function 'name' in same controller file
 
 - Above give the gist of redirection in asp.net
